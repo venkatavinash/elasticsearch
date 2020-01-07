@@ -1,5 +1,5 @@
 {
-    "name": "basemkhirat/elasticsearch",
+    "name": "venkatavinash/elasticsearch",
     "description": "Laravel, Lumen and Native php elasticseach query builder to build complex queries using an elegant syntax",
     "keywords": [
         "elasticsearch",
@@ -39,7 +39,7 @@
     },
     "require": {
         "php": ">=5.6.6",
-        "elasticsearch/elasticsearch": "^5.0|^6.0",
+        "elasticsearch/elasticsearch": "^5.0|^6.0|^7.2",
         "illuminate/pagination": "*",
         "illuminate/support": "*",
         "symfony/var-dumper": "*",
